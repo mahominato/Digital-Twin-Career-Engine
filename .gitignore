@@ -1,0 +1,8 @@
+*.json
+*.png
+*.txt
+*.pyc
+__pycache__/
+installation_id
+scratch/
+.streamlit/secrets.toml
