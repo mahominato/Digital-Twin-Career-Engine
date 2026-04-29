@@ -1,0 +1,14 @@
+{
+    "mcpServers": {
+        "notebooklm": {
+            "command": "npx",
+            "args": [
+                "-y",
+                "@modelcontextprotocol/server-notebooklm"
+            ],
+            "env": {
+                "NOTEBOOKLM_URL": "https://notebooklm.google.com/notebook/6ab9840f-8fb7-4fac-8477-b756e6886c27"
+            }
+        }
+    }
+}
